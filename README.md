@@ -55,5 +55,5 @@ After building, you can run the recorder:
 
 ## License
 
-This project is licensed under the [MIT](LICENSE) License.
-
+This project is based on [OBS Studio](https://github.com/obsproject/obs-studio), licensed under GPL-2.0.
+This modified version is also under [GPL-2.0](COPYING.txt) License.
